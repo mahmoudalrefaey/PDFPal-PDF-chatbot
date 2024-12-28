@@ -18,7 +18,7 @@ def main():
     
     st.set_page_config(page_title="PDFPal", page_icon=":books:")
     st.header("Welcome to PDFPal 😁")
-    st.write("PDFPal is an AI chatbot that answers questions related to PDF content based on user prompts.💬pip p")
+    st.write("PDFPal is an AI chatbot that answers questions related to PDF content based on user prompts.💬")
     
     uploaded_pdf = st.file_uploader(label="Upload your PDF file and ask questions about it.", type="pdf")
     
