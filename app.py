@@ -15,7 +15,7 @@ def main():
     Main entry point for the script.
     """
     load_dotenv()
-    
+        
     st.set_page_config(page_title="PDFPal", page_icon=":books:")
     st.header("Welcome to PDFPal 😁")
     st.write("PDFPal is an AI chatbot that answers questions related to PDF content based on user prompts.💬")
