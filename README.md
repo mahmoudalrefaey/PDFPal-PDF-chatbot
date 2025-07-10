@@ -36,7 +36,7 @@ A lightweight, chat-based Retrieval-Augmented Generation (RAG) application that 
 
 1. **Clone the Repository**
    ```bash
-   git clone <your-repo-url>
+   git clone github.com/mahmoudalrefaey/PDFPal-PDF-chatbot
    cd Pdf_chatbot
    ```
 2. **Install Dependencies**
